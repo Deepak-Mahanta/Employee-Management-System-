@@ -104,7 +104,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## 📧 Contact
 
-If you have any questions or would like to reach out, please feel free to contact me directly through the contact form on my website or at [LinkedIn](https://www.linkedin.com/in/contactdeepk/)..
+If you have any questions or would like to reach out, please feel free to contact me directly through the contact form on my website or at [LinkedIn](https://www.linkedin.com/in/contactdeepk/).
 
 ---
 
