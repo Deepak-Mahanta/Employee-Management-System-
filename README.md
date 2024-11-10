@@ -66,7 +66,7 @@ To run this project locally, follow these steps:
 
 4. **Set up the database:**
 
-    - Create a MySQL database named `employeeMS`. (or you can give any name according to you)
+    - Create a MySQL database named `employeems`. (or you can give any name according to you)
     - Import the SQL schema file (if available) to create tables.
 
 5. **Run the project:**
