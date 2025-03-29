@@ -89,7 +89,7 @@ To run this project locally, follow these steps:
     - Start the frontend development server:
       ```bash
       cd frontend
-      npm start
+      npm run dev
       ```
 
 6. **Access the application:**
