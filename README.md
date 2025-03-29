@@ -92,7 +92,7 @@ To run this project locally, follow these steps:
 
 | Login Page | Dashboard | Employee Management |
 |------------|-----------|---------------------|
-| ![Login Page](uploaded soon) | ![Dashboard](uploaded soon) | ![Employee Management](uploaded soon) |
+|![Screenshot 2025-03-29 115416](https://github.com/user-attachments/assets/63511a40-2c5a-43c7-aaa6-ebf8193db438)![Screenshot 2025-03-29 120828](https://github.com/user-attachments/assets/2c73d424-e680-4c19-a9bd-cd361e41dbe7)| ![Screenshot 2025-03-29 121457](https://github.com/user-attachments/assets/486021e0-d26e-4c6c-961a-858b94874d37)![Screenshot 2025-03-29 121625](https://github.com/user-attachments/assets/cfdbac6f-4b4d-43af-a787-41f9b7fe6c72) | ![Screenshot 2025-03-29 120746](https://github.com/user-attachments/assets/cf6f3ed9-f085-46aa-89b5-e6ad552c3f64) |  |
 
 ---
 
