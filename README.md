@@ -88,7 +88,9 @@ To run this project locally, follow these steps:
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots & Demo
+ ### [Watch my demo video](https://youtu.be/o0jDOVjljBQ)
+
 
 | Login Page | Dashboard | Employee Management |
 |------------|-----------|---------------------|
