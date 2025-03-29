@@ -32,6 +32,16 @@ This project includes:
 
 ---
 
+## 📸 Screenshots & Demo
+ ### [Watch my demo video](https://youtu.be/o0jDOVjljBQ)
+
+
+| Login Page | Dashboard | Employee Management |
+|------------|-----------|---------------------|
+|![Screenshot 2025-03-29 115416](https://github.com/user-attachments/assets/63511a40-2c5a-43c7-aaa6-ebf8193db438)![Screenshot 2025-03-29 120828](https://github.com/user-attachments/assets/2c73d424-e680-4c19-a9bd-cd361e41dbe7)| ![Screenshot 2025-03-29 121457](https://github.com/user-attachments/assets/486021e0-d26e-4c6c-961a-858b94874d37)![Screenshot 2025-03-29 121625](https://github.com/user-attachments/assets/cfdbac6f-4b4d-43af-a787-41f9b7fe6c72) | ![Screenshot 2025-03-29 120746](https://github.com/user-attachments/assets/cf6f3ed9-f085-46aa-89b5-e6ad552c3f64) |  |
+
+---
+
 ## 🚀 Getting Started
 
 To run this project locally, follow these steps:
@@ -85,16 +95,6 @@ To run this project locally, follow these steps:
 6. **Access the application:**
 
     - Open your browser and go to `http://localhost:3000`.
-
----
-
-## 📸 Screenshots & Demo
- ### [Watch my demo video](https://youtu.be/o0jDOVjljBQ)
-
-
-| Login Page | Dashboard | Employee Management |
-|------------|-----------|---------------------|
-|![Screenshot 2025-03-29 115416](https://github.com/user-attachments/assets/63511a40-2c5a-43c7-aaa6-ebf8193db438)![Screenshot 2025-03-29 120828](https://github.com/user-attachments/assets/2c73d424-e680-4c19-a9bd-cd361e41dbe7)| ![Screenshot 2025-03-29 121457](https://github.com/user-attachments/assets/486021e0-d26e-4c6c-961a-858b94874d37)![Screenshot 2025-03-29 121625](https://github.com/user-attachments/assets/cfdbac6f-4b4d-43af-a787-41f9b7fe6c72) | ![Screenshot 2025-03-29 120746](https://github.com/user-attachments/assets/cf6f3ed9-f085-46aa-89b5-e6ad552c3f64) |  |
 
 ---
 
